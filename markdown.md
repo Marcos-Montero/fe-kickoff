@@ -12,9 +12,6 @@ primer párrafo
   - 1
   - 2
 
-1. A tope
-2. Menos a tope
-3. A tope
-4. Buenass
+
 
 **Aquí** _va_ un **_asterisco_**
