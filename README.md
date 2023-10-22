@@ -10,7 +10,7 @@ Welcome to the dojo.
          1. Markdown preview extension
          2. GitLens
          3. Excalidraw
-   2. 1er lenguaje: `Markdown`
+   2. 1st language: `Markdown`
 2. **Console**
    1. [Basic Commands 🔗](docs/1.console.md)
 3. **Github**
