@@ -15,10 +15,10 @@ Welcome to the dojo.
    1. [Basic Commands 🔗](docs/1.console.md)
 3. **Github**
    1. Create Account
-   2. [Git Excalidraw 🔗](docs/2.git.excalidraw)
+   2. [Git Diagram 🔗](docs/2.git.excalidraw)
       1. Clone repository
       2. Changes (Local - Staged - Commits)
-      3. Sync (Pull-Push)
+      3. Sync (Pull - Push - Conflicts)
 4. [**HTML** 🔗](docs/3.html.md)
    1. Intro
    2. Tags
@@ -29,9 +29,9 @@ Welcome to the dojo.
          2. Table
          3. Form
       4. Including JavaScript
-5. [**CSS**🔗](docs/4.css.md)
+5. [**CSS** 🔗](docs/4.css.md)
    1. TBC
-6. [**JS**🔗](docs/5.javascript.md)
+6. [**JS** 🔗](docs/5.javascript.md)
    1. TBC
-7. [**React**🔗](docs/6.react.md)
+7. [**React** 🔗](docs/6.react.md)
    1. TBC
