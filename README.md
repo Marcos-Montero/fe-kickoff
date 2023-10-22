@@ -10,14 +10,14 @@
          3. Excalidraw
    2. 1er lenguaje: `Markdown`
 2. **Console**
-   1. [Basic Commands](./docs/console-commands.md)
+   1. [Basic Commands](docs/1.console.md)
 3. **Github**
    1. Create Account
-   2. [Git Excalidraw](./docs/git.excalidraw)
+   2. [Git Excalidraw](docs/2.git.excalidraw)
       1. Clone repository
       2. Changes (Local - Staged - Commits)
       3. Sync (Pull-Push)
-4. [HTML](./docs/html.md)
+4. [HTML](docs/3.html.md)
 5. **CSS**
 6. **JS**
 7. **React**
